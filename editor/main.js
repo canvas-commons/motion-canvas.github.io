@@ -284,7 +284,7 @@ configuration:</p>
 <pre class=""><code class="language-ts"><span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-title function_">makeProject</span>({
   <span class="hljs-attr">experimentalFeatures</span>: <span class="hljs-literal">true</span>,
   <span class="hljs-comment">// ...</span>
-});</code></pre><p><a href='https://motioncanvas.io/docs/experimental' target='_blank'>Learn more</a> about experimental
+});</code></pre><p><a href='https://archive.canvascommons.io/docs/experimental' target='_blank'>Learn more</a> about experimental
 features.</p>
 `
   };
@@ -3690,7 +3690,7 @@ function Ah(t, e, n) {
 <pre class=""><code class="language-ts"><span class="hljs-keyword">import</span> shader <span class="hljs-keyword">from</span> <span class="hljs-string">&#x27;./shader.glsl?raw&#x27;</span>;</code></pre><p>Do <strong>NOT</strong> use <code>#include</code> in an inline string:</p>
 <pre class=""><code class="language-ts"><span class="hljs-keyword">const</span> shader = <span class="hljs-string">\`\\
 #include &quot;example.glsl&quot;
-\`</span>;</code></pre><p><a href='https://motioncanvas.io/docs/shaders' target='_blank'>Learn more</a> about working with shaders.</p>
+\`</span>;</code></pre><p><a href='https://archive.canvascommons.io/docs/shaders' target='_blank'>Learn more</a> about working with shaders.</p>
 `
         });
         break;
@@ -55598,7 +55598,7 @@ function sA() {
     }), u(gA, {}), t.experimentalFeatures && u(Kc, {
       title: "Experimental features enabled",
       id: "docs-experimental-link",
-      href: "https://motioncanvas.io/docs/experimental/",
+      href: "https://archive.canvascommons.io/docs/experimental/",
       target: "_blank",
       children: [u(KI, {}), u(uE, {
         level: Dt.Warn,
@@ -55607,7 +55607,7 @@ function sA() {
     }), u(Kc, {
       title: "Docs",
       id: "docs-external-link",
-      href: "https://motioncanvas.io/docs/",
+      href: "https://archive.canvascommons.io/docs/",
       target: "_blank",
       children: u(WI, {})
     }), u(gE, {

@@ -4,8 +4,8 @@
   <ShortName>Motion Canvas</ShortName>
   <Description>Search Motion Canvas</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://motioncanvas.io/img/favicon.svg</Image>
-  <Url type="text/html" method="get" template="https://motioncanvas.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://motioncanvas.io/opensearch.xml" />
-  <moz:SearchForm>https://motioncanvas.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://archive.canvascommons.io/img/favicon.svg</Image>
+  <Url type="text/html" method="get" template="https://archive.canvascommons.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://archive.canvascommons.io/opensearch.xml" />
+  <moz:SearchForm>https://archive.canvascommons.io/</moz:SearchForm>
 </OpenSearchDescription>
